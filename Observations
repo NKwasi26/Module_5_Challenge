@@ -1,0 +1,7 @@
+Observations
+
+This is a summary of study results on anti-cancer medications or 10 drug regimens. The total number of mouses with unique IDs are 248.The analysis shows the statistical analysis of the tumor volumes per drug regimen with Ketapril having the highest  std from the mean point.Drug regimen "Capomulin" has the highest total number of timepoints for all mice tested for each drug regimen.The analysis shows that 51% male mouse against 49% female mouse distribution that are treated to all the drug regimenOut of all the drug regimen further evaluated, it's observed that Infubinol contains 1 outlier.Regression line of average tumor volume and mouse weight for the Capomulin regimen reveals further that there is strong correlation between the tumor volume and weight of mouse.
+
+The correlation coefficient is 0.84, resulting in a strong positive relationship between the weight of the mouse and the average tumor volume.Meanwhile, the slope of the regression line is 0.95, revealing 84% variability in the tumor volume is explained by weight. The remaining 16% is the result from other factors not captured in the linear regression.
+
+There seems to be some limitations to this analysis/data: There is not enough information to suggest the effective drug regiment.No mention of other conditions under which the mice are exposed and treated. 
